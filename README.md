@@ -72,6 +72,7 @@ Name: Harshit Chugh
 
 [GitHub](https://github.com/HarshitChugh0628/Pizza-Sales)
 
-❤️ Acknowledgements
+❤️ Acknowledgements :
+
 Thanks for your Support
 
