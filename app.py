@@ -9,7 +9,7 @@ st.markdown("<div style='margin-top: 40px;'></div>", unsafe_allow_html=True)
 
 ## sidebar
 with st.sidebar:
-    st.image("my picture.jpg", use_container_width=True)
+    st.image("pictures/sh-2.png", use_container_width=True)
     with st.expander("🧑‍🤝‍🧑 About us"):
         st.write("We are students building smart NLP tools using ML.")
     with st.expander("📞 Contact us"):
