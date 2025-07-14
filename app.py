@@ -9,12 +9,14 @@ st.markdown("<div style='margin-top: 40px;'></div>", unsafe_allow_html=True)
 
 ## sidebar
 with st.sidebar:
-    st.image("pictures/sh-2.png", use_container_width=True)
+    st.image("my picture.jpg", use_container_width=True)
     with st.expander("🧑‍🤝‍🧑 About us"):
         st.write("We are students building smart NLP tools using ML.")
     with st.expander("📞 Contact us"):
-        st.write("Email: harshit@example.com")
-        st.write("GitHub: github.com/harshit")
+        st.write("Mob: 7665056712")
+        st.write("Email: 10harshit2003@gmail.com")
+        st.write("GitHub: https://github.com/HarshitChugh0628/LENS_project2025.git")
+        st.write("Linkdin: www.linkedin.com/in/harshitchugh2810")
 
 
 images = ['pictures/pizza-1.png', 'pictures/pizza-2.png', 'pictures/pizza-3.png']
