@@ -48,7 +48,8 @@ This project uses 4 CSV files:
 
 ## 📷 Dashboard Preview
 
-![Pizza Dashboard](https://pizzasales2025.streamlit.app/)
+[Pizza Dashboard](https://pizzasales2025.streamlit.app/)
+
 <p align="center">
   <a href="https://your-live-dashboard-link.com">
     <img src="pictures/pizza-1.png" width="800" /><br><br>
