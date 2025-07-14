@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://your-live-dashboard-link.com">
+    <img src="pictures/pizza-1.png" width="800" /><br><br>
+    <img src="pictures/pizza-2.png" width="800" /><br><br>
+    <img src="pictures/pizza-3.png" width="800" /><br><br>
+  </a>
+</p>
+
 # 🍕 Power BI Pizza Sales Dashboard
 
 An interactive Power BI dashboard project built to analyze pizza sales using a real-world dataset. This project covers business KPIs, trend analysis, product performance, and customer behavior.
@@ -50,13 +58,6 @@ This project uses 4 CSV files:
 
 [Pizza Dashboard](https://pizzasales2025.streamlit.app/)
 
-<p align="center">
-  <a href="https://your-live-dashboard-link.com">
-    <img src="pictures/pizza-1.png" width="800" /><br><br>
-    <img src="pictures/pizza-2.png" width="800" /><br><br>
-    <img src="pictures/pizza-3.png" width="800" /><br><br>
-  </a>
-</p>
 ## 💻 Tools Used
 
 - Power BI Desktop  
@@ -64,5 +65,13 @@ This project uses 4 CSV files:
 - Power Query  
 - CSV Files (Structured Dataset)
 
----
+📫 Contact
+Name: Harshit Chugh
+
+[Email](10harshit2003@gmail.com)
+
+[GitHub](https://github.com/HarshitChugh0628/Pizza-Sales)
+
+❤️ Acknowledgements
+Thanks for your Support
 
