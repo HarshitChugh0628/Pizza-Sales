@@ -15,7 +15,7 @@ with st.sidebar:
     with st.expander("📞 Contact us"):
         st.write("Mob: 7665056712")
         st.write("Email: 10harshit2003@gmail.com")
-        st.write("GitHub: https://github.com/HarshitChugh0628/LENS_project2025.git")
+        st.write("GitHub: https://pizzasales2025.streamlit.app/")
         st.write("Linkdin: www.linkedin.com/in/harshitchugh2810")
 
 
