@@ -69,9 +69,9 @@ This project uses 4 CSV files:
 Name: Harshit Chugh
 
 [Email](10harshit2003@gmail.com)
+
 [Linkdin](https://www.linkedin.com/in/harshitchugh2810/)
 
-[GitHub](https://github.com/HarshitChugh0628/Pizza-Sales)
 
 ❤️ Acknowledgements :
 
